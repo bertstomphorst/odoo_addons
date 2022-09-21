@@ -1,0 +1,3 @@
+[submodule "pdfa_reporting"]
+	path = pdfa_reporting
+	url = https://github.com/bertstomphorst/pdfa_reporting.git
